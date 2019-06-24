@@ -1,0 +1,14 @@
+G:\WBF-Project\MediaPlayerControl\MediaPlayerControl\bin\Debug\MediaPlayerControl.dll
+G:\WBF-Project\MediaPlayerControl\MediaPlayerControl\bin\Debug\MediaPlayerControl.pdb
+G:\WBF-Project\MediaPlayerControl\MediaPlayerControl\bin\Debug\Interop.WMPLib.dll
+G:\WBF-Project\MediaPlayerControl\MediaPlayerControl\bin\Debug\AxInterop.WMPLib.dll
+G:\WBF-Project\MediaPlayerControl\MediaPlayerControl\obj\Debug\Interop.WMPLib.dll
+G:\WBF-Project\MediaPlayerControl\MediaPlayerControl\obj\Debug\AxInterop.WMPLib.dll
+G:\WBF-Project\MediaPlayerControl\MediaPlayerControl\obj\Debug\MediaPlayerControl.csproj.ResolveComReference.cache
+G:\WBF-Project\MediaPlayerControl\MediaPlayerControl\obj\Debug\MediaPlayerControl.csproj.GenerateResource.Cache
+G:\WBF-Project\MediaPlayerControl\MediaPlayerControl\obj\Debug\MediaPlayerControl.dll
+G:\WBF-Project\MediaPlayerControl\MediaPlayerControl\obj\Debug\MediaPlayerControl.pdb
+G:\WBF-Project\MediaPlayerControl\MediaPlayerControl\obj\Debug\MediaPlayerControl.MediaControl.resources
+G:\WBF-Project\MediaPlayerControl\MediaPlayerControl\obj\Debug\MediaPlayerControl.csprojResolveAssemblyReference.cache
+G:\WBF-Project\MediaPlayerControl\MediaPlayerControl\bin\Debug\NAudio.dll
+G:\WBF-Project\MediaPlayerControl\MediaPlayerControl\bin\Debug\NAudio.xml

@@ -1,0 +1,13 @@
+F:\WPFITI\WBF-Project\WBF-Project\bin\Debug\WBF-Project.exe.config
+F:\WPFITI\WBF-Project\WBF-Project\bin\Debug\WBF-Project.exe
+F:\WPFITI\WBF-Project\WBF-Project\bin\Debug\WBF-Project.pdb
+F:\WPFITI\WBF-Project\WBF-Project\obj\Debug\MainWindow.baml
+F:\WPFITI\WBF-Project\WBF-Project\obj\Debug\MainWindow.g.cs
+F:\WPFITI\WBF-Project\WBF-Project\obj\Debug\App.g.cs
+F:\WPFITI\WBF-Project\WBF-Project\obj\Debug\WBF-Project_MarkupCompile.cache
+F:\WPFITI\WBF-Project\WBF-Project\obj\Debug\WBF-Project.g.resources
+F:\WPFITI\WBF-Project\WBF-Project\obj\Debug\WBF_Project.Properties.Resources.resources
+F:\WPFITI\WBF-Project\WBF-Project\obj\Debug\WBF-Project.csproj.GenerateResource.Cache
+F:\WPFITI\WBF-Project\WBF-Project\obj\Debug\WBF-Project.exe
+F:\WPFITI\WBF-Project\WBF-Project\obj\Debug\WBF-Project.pdb
+F:\WPFITI\WBF-Project\WBF-Project\obj\Debug\WBF-Project.csprojResolveAssemblyReference.cache
